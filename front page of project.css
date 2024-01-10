@@ -1,0 +1,17 @@
+.form{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    padding: 50px;
+    border:1px solid;
+    background-color: rgba(0, 0,0,4);
+}
+input{
+    border:none;
+}
+.info{
+    margin:50px;
+}
+.h2{
+    dispaly:inline-block;
+}
